@@ -2,11 +2,16 @@
 
 Create a complete CI-CD pipeline using bash, python, and crontabs. The list of tasks is specified below: 
 
+
 ## Task 1: Set Up a Simple HTML Project 
 Create a simple HTML project and push it to a GitHub repository. 
 
+[Solution](simple_html_file.html)
 
-## Task 2: Set Up an AWS EC2/Local Linux Instance with Nginx
+
+## Task 2: Set Up an AWS EC2/Local Linux Instance with Nginx:
+Solution:
+
 
 
 ## Task 3: Write a Python Script to Check for New Commits
